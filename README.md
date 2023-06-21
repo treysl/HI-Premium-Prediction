@@ -1,5 +1,5 @@
 ## Health Insurance Expenses Prediction
-Using Machine Learning to predict annual medical spending for new customers. It is important to note that this dataset was obtained freely from Kaggle.com. We have reason to believe the information is true and that participants' identifiable information was removed for safety and to correspond with HIPPA laws, but we are unable to confirm this is the case.
+Using Machine Learning to predict annual medical spending for new customers. It is important to note that this dataset was obtained freely from Kaggle.com. We have reason to believe the information is true and that participants' identifiable information was removed for safety and to correspond with HIPPA laws, but we cannot verify this is the case.
 
 Contributors: 
   * Trey Lumley
